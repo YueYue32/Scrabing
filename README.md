@@ -1,7 +1,7 @@
 # sl
 scrabing
 
-# " "
+# 
 
 程式內的這段
 s = Service("chromedriver.exe")
