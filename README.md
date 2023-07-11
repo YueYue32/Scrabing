@@ -1,3 +1,7 @@
+# 套件
+pip install selenium 
+
+
 # scrabing
 scrabing 爬蟲程式，每支程式中皆有註解說明爬的網站是哪個網站
 
