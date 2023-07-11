@@ -9,7 +9,9 @@ s = Service("chromedriver.exe")
 
 "chromedriver.exe"為google瀏覽器執行檔
 
-"chromedriver.exe"需定期更新，否則程式會跳出瀏覽器版本不相應的錯誤，通常需要下載最新版，不過依照執行程式後，"run中顯示的版本序號為準"
+"chromedriver.exe"需定期更新，否則程式會跳出瀏覽器版本不相應的錯誤，通常需要下載最新版
+
+不過依照執行程式後，"run中顯示的版本序號為準"
 
 下載後的"chromedriver.exe"，檔案的放置位置和爬蟲程式相同的資料夾下
 
