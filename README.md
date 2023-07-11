@@ -17,7 +17,6 @@ https://chromedriver.chromium.org/downloads
 
 
 
-# 
-
-write_in_mysql_example：執行完爬蟲程式後，將資料寫入MYSQL資料庫
+# write_in_mysql_example.py
+執行完爬蟲程式後，將資料寫入MYSQL資料庫
 "內容僅為範例，依各使用者調整資料庫參數設定、資料庫table名稱、資料庫欄位"
