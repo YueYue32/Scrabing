@@ -29,4 +29,4 @@ https://chromedriver.chromium.org/downloads
 
 
 
-"功能內容僅為範例，依各使用者調整資料庫參數設定、資料庫table名稱、資料庫欄位"
+"功能內容僅為範例，依各使用者輸入 資料庫參數設定、資料庫table名稱、資料庫欄位"
