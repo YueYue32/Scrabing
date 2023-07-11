@@ -16,6 +16,8 @@ s = Service("chromedriver.exe")
 https://chromedriver.chromium.org/downloads
 
 
+#
+
 
 # write_in_mysql_example.py
 執行完爬蟲程式後，將資料寫入MYSQL資料庫
