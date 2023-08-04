@@ -1,12 +1,12 @@
-# 爬蟲程式
+# 爬蟲程式 web crawler
 主要是各縣市政府相關最新消息、北捷、高捷最新消息、新聞稿等等
 
 # 套件
 pip install selenium 
 
 
-# scrabing
-scrabing 爬蟲程式，每支程式中皆有註解說明爬的網站是哪個網站
+# web crawler
+web crawler 爬蟲程式，每支程式中皆有註解說明爬的網站是哪個網站
 
 # 
 
