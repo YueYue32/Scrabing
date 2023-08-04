@@ -5,8 +5,8 @@
 pip install selenium 
 
 
-# scrabing
-scrabing 爬蟲程式，每支程式中皆有註解說明爬的網站是哪個網站
+# web crawler(以前命名是用scrabing，暫時不修改名稱)
+web crawler 爬蟲程式，每支程式中皆有註解說明爬的網站是哪個網站
 
 # 
 
